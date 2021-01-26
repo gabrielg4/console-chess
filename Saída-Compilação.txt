@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: xadrez console, Configuração: Debug Any CPU ------
+1>xadrez console -> C:\temp\projetos\xadrez-console\xadrez console\xadrez console\bin\Debug\netcoreapp3.1\xadrez console.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
